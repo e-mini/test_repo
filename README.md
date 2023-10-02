@@ -3,6 +3,7 @@
 ### This is my README file.
 
 1. Add code
-2. learn somecode
-3. commit to git
+2. learn some code
+3. test your code
+4. commit to git
 
